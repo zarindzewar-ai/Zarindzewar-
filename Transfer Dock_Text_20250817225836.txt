@@ -1,0 +1,11 @@
+Index.txt
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Zari & Zewar</title>
+</head>
+<body>
+  <h1>Welcome to Zari & Zewar</h1>
+  <p>Your online jewellery store ✨</p>
+</body>
+</html>
